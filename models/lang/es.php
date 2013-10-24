@@ -2,6 +2,7 @@
         /*
                 UserPie Langauge File.
                 Language: Spanish.
+                By: 1000io.com
         */
         
         /*
